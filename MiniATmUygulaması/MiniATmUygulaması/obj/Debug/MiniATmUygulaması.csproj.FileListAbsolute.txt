@@ -1,0 +1,16 @@
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.exe.config
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.exe
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.pdb
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.AssemblyReference.cache
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.exe
+C:\Users\DELİ\Desktop\Kodlar\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.pdb
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.exe.config
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.exe
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\bin\Debug\MiniATmUygulaması.pdb
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.AssemblyReference.cache
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.exe
+C:\Users\DELİ\Desktop\Projeler\MiniATmUygulaması\MiniATmUygulaması\obj\Debug\MiniATmUygulaması.pdb
